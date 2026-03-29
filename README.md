@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Laravel+Developer;Node.js+Enthusiast;Building+Scalable+Systems;Always+Learning)
+![Stats](https://github-readme-stats.vercel.app/api?username=sadats90&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadats90&layout=compact&theme=tokyonight)
 
 
 
