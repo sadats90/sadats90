@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+![Snake animation](https://github.com/sadats90/sadats90/blob/output/github-contribution-grid-snake.svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sadats90&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadats90&layout=compact&theme=tokyonight)
 
 
 
