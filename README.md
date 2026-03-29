@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Laravel+Developer;Node.js+Enthusiast;Building+Scalable+Systems;Always+Learning)
 
 
 
